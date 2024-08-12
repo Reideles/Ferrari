@@ -1,0 +1,18 @@
+header{
+    color: #ff0505;
+    background-color: black;
+    font-weight:20;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 15%;
+    margin: 0 20px 0 20px ;    
+}
+body{
+    font-size: larger;
+
+}
+img{
+    margin:80px 60px 40px 300px;
+
+}
